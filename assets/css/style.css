@@ -1,0 +1,26 @@
+.logo1 {
+    width: 15rem;
+    height: 2rem;
+}
+
+.my-4 {
+    background-color: dimgrey;
+}
+
+#principal-section {
+    background-image: url("../img/imagenfondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+
+}
+
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+
